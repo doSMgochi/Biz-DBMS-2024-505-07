@@ -1,0 +1,5 @@
+-- tableSpace 생성
+-- 이름 : schoolDB
+-- datafile : c:/app/data/schoolDB.dbf
+-- 초기 사이즈 : 1MByte
+-- 자동증가 : 1KByte 씩 자동으로 크기 증가
